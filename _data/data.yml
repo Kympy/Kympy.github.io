@@ -152,6 +152,31 @@ projects:
         link: "https://steamcommunity.com/app/1443350"
         tagline: 
 
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Unity
+        level: 90%
+
+      - name: Unreal 5
+        level: 50%
+
+      - name: Python
+        level: 50%
+
+      - name: C#
+      - level: 90%
+
+      - name: C++
+      - level: 60%
+
+      - name: Java
+      - level: 60%
+
+      - name: Game Server
+      - level: 10%
+
 oss:
     title: OSS Contributions
     intro: >
@@ -174,19 +199,6 @@ publications:
         link: 
         authors: 
         conference: 
-
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: Unity
-        level: 90%
-
-      - name: Unreal 5
-        level: 50%
-
-      - name: Python
-        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
