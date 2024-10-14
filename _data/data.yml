@@ -170,16 +170,16 @@ skills:
         level: 50%
 
       - name: C#
-      - level: 90%
+        level: 90%
 
       - name: C++
-      - level: 60%
+        level: 60%
 
       - name: Java
-      - level: 60%
+        level: 60%
 
       - name: Game Server
-      - level: 10%
+        level: 10%
 
 oss:
     title: OSS Contributions
